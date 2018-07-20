@@ -9,5 +9,13 @@ Two models are being used here : numpy model and LSTM implemented in Keras.</br>
 4) Model is compiled and than trained on the training set.
 5) Model is tested against the test set.
 
-
+## Model (summarized using keras):
 ![alt text](https://github.com/harshalmittal4/Add_emoji/blob/master/model_lstm.png)
+
+The accuracy obtained was 82% using 50 epochs.
+
+
+
+
+
+
