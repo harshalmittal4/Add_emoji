@@ -8,3 +8,6 @@ Two models are being used here : numpy model and LSTM implemented in Keras.</br>
 3) LSTM model(graph) is built in keras.
 4) Model is compiled and than trained on the training set.
 5) Model is tested against the test set.
+
+
+![alt text](https://github.com/harshalmittal4/Add_emoji/blob/master/model_lstm.png)
